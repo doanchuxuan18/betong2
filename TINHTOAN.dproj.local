@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/10 10:27:34.000.309,=C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 10:30:20.000.871,C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Kì 1 năm 4\BT2\thay\U_MAIN.pas</Transaction>
+    <Transaction>2022/10/10 10:30:20.000.871,C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Kì 1 năm 4\BT2\thay\U_MAIN.dfm</Transaction>
+    <Transaction>2022/10/10 10:30:53.000.440,=C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 10:31:34.000.800,=C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 10:31:46.000.215,C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Kì 1 năm 4\BT2\thay\U_BIEN.pas</Transaction>
+    <Transaction>2022/10/10 10:31:51.000.479,=C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 10:32:06.000.748,C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Kì 1 năm 4\BT2\thay\U_TINHTOAN.pas</Transaction>
+    <Transaction>2022/10/10 10:35:30.000.017,C:\Users\TUF\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Kì 1 năm 4\BT2\thay\TINHTOAN.dproj</Transaction>
+    <Transaction>2022/10/10 10:56:40.000.339,=D:\Kì 1 năm 4\BT2\thay\Unit2.pas</Transaction>
+    <Transaction>2022/10/10 10:56:56.000.932,D:\Kì 1 năm 4\BT2\thay\Unit2.dfm=D:\Kì 1 năm 4\BT2\thay\U_TINHTAI.dfm</Transaction>
+    <Transaction>2022/10/10 10:56:56.000.932,D:\Kì 1 năm 4\BT2\thay\Unit2.pas=D:\Kì 1 năm 4\BT2\thay\U_TINHTAI.pas</Transaction>
+    <Transaction>2022/10/11 08:03:26.000.192,=D:\Kì 1 năm 4\BT2\thay\Unit3.pas</Transaction>
+    <Transaction>2022/10/11 08:03:47.000.118,D:\Kì 1 năm 4\BT2\thay\U_HOATTAI.pas=D:\Kì 1 năm 4\BT2\thay\Unit3.pas</Transaction>
+    <Transaction>2022/10/11 08:03:47.000.118,D:\Kì 1 năm 4\BT2\thay\U_HOATTAI.dfm=D:\Kì 1 năm 4\BT2\thay\Unit3.dfm</Transaction>
+    <Transaction>2022/10/12 08:00:28.000.609,=D:\Kì 1 năm 4\BT2\thay\Unit4.pas</Transaction>
+    <Transaction>2022/10/12 08:00:54.000.014,D:\Kì 1 năm 4\BT2\thay\Unit4.pas=D:\Kì 1 năm 4\BT2\thay\U_TINHTAI1.pas</Transaction>
+    <Transaction>2022/10/12 08:00:54.000.014,D:\Kì 1 năm 4\BT2\thay\Unit4.dfm=D:\Kì 1 năm 4\BT2\thay\U_TINHTAI1.dfm</Transaction>
+    <Transaction>2022/10/12 08:01:00.000.555,=D:\Kì 1 năm 4\BT2\thay\Unit5.pas</Transaction>
+    <Transaction>2022/10/12 08:01:14.000.871,D:\Kì 1 năm 4\BT2\thay\Unit5.pas=D:\Kì 1 năm 4\BT2\thay\U_HOATTAI1.pas</Transaction>
+    <Transaction>2022/10/12 08:01:14.000.872,D:\Kì 1 năm 4\BT2\thay\Unit5.dfm=D:\Kì 1 năm 4\BT2\thay\U_HOATTAI1.dfm</Transaction>
+    <Transaction>2022/10/18 15:02:33.000.418,=E:\Cong viec\tinhtaitrong\Unit1.pas</Transaction>
+    <Transaction>2022/10/18 15:02:50.000.380,E:\Cong viec\tinhtaitrong\ImportExcelData.pas=E:\Cong viec\tinhtaitrong\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

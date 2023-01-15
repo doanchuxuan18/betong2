@@ -1,0 +1,16 @@
+program TINHTOAN;
+
+uses
+  Vcl.Forms,
+  U_MAIN in 'U_MAIN.pas' {Form1},
+  U_BIEN in 'U_BIEN.pas',
+  U_TINHTOAN in 'U_TINHTOAN.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

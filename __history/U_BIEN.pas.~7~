@@ -1,0 +1,21 @@
+unit U_BIEN;
+
+interface
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+var
+  l1, l2, b, h, san1, san2, san3, h1, b1, h2, b2, h3, b3: Real;
+  g1,g2,Ga,Gb,Gc: Extended;
+  g1m,g2m,Gam,Gbm,Gcm: Extended;
+  ht1_P1,ht1_P2,ht1_Pa,ht1_Pc,ht1_P1m,ht1_P2m,ht1_Pam,ht1_Pcm: Extended;
+  ht2_P1,ht2_P2,ht2_Pa,ht2_Pc,ht2_P1m,ht2_P2m,ht2_Pam,ht2_Pcm: Extended;
+  St,Stab,Stbc,htab,htbc: Real;
+  gs,ghl,gm,gtx1,gtx2,ps,phl,pm,sodo2_gm: Real;
+
+implementation
+
+uses U_MAIN, U_TINHTOAN, U_TINHTAI, U_HOATTAI, U_HOATTAI1, U_TINHTAI1;
+
+
+end.

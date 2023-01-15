@@ -1,0 +1,80 @@
+unit U_HOATTAI;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm3 = class(TForm)
+    Label1: TLabel;
+    Label22: TLabel;
+    Label23: TLabel;
+    ted_P1: TEdit;
+    Label2: TLabel;
+    ted_P2: TEdit;
+    Label3: TLabel;
+    ted_Pa: TEdit;
+    Label4: TLabel;
+    ted_Pc: TEdit;
+    Label5: TLabel;
+    Label12: TLabel;
+    Label13: TLabel;
+    Label14: TLabel;
+    Label15: TLabel;
+    ted_P12: TEdit;
+    Label7: TLabel;
+    ted_P22: TEdit;
+    Label8: TLabel;
+    ted_Pa2: TEdit;
+    Label9: TLabel;
+    ted_Pc2: TEdit;
+    Label10: TLabel;
+    Label17: TLabel;
+    Label18: TLabel;
+    Label19: TLabel;
+    Label20: TLabel;
+    Label6: TLabel;
+    ted_P2m: TEdit;
+    Label24: TLabel;
+    ted_Pam: TEdit;
+    Label25: TLabel;
+    ted_Pcm: TEdit;
+    Label26: TLabel;
+    Label28: TLabel;
+    Label29: TLabel;
+    Label30: TLabel;
+    Label11: TLabel;
+    ted_P1m: TEdit;
+    Label16: TLabel;
+    ted_Pcm2: TEdit;
+    Label21: TLabel;
+    ted_Pam2: TEdit;
+    Label27: TLabel;
+    Label31: TLabel;
+    Label32: TLabel;
+    Label33: TLabel;
+    btn_thoat: TButton;
+    procedure btn_thoatClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form3: TForm3;
+
+implementation
+
+{$R *.dfm}
+
+uses U_BIEN, U_MAIN, U_TINHTAI, U_TINHTOAN, U_HOATTAI1, U_TINHTAI1;
+
+procedure TForm3.btn_thoatClick(Sender: TObject);
+begin
+Form3.Close ;
+end;
+
+end.
